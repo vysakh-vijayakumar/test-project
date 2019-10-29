@@ -1,10 +1,13 @@
 
 # html
 # javascript
-  # html dom
+    # html dom
+    # string, number
+    # forEach, for loop, while loop
+    # anonyomous functions
 # xmlHttp (Ajax)
-  # readyState
-  # responses
+    # readyState
+    # responses
 # jQuery
     # select
 
