@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+   <body>
+      <div ng-app="appEmployees" ng-controller="ctrlEmplpoyees">
+         <div id="employeesList">
+            <table>
+               <th>
+               <tr>
+                  <td>Id</td>
+                  <td>Name</td>
+               </tr>
+               <th>
+               <tr ng-repeat="employee in employees">
+                  <td> {{employee.id}} </td>
+                  <td> {{employee.employee_name}} </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <script src="appEmployees.js"></script>
+      <script src="ctrlEmployees.js"></script>
+   </body>
+</html>
