@@ -13,6 +13,4 @@ app.controller("employeesController", function ($scope, $http) {
     console.log("Received response");
     $scope.employees = response.data;
   });
-
-
 });
