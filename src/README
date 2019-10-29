@@ -34,3 +34,4 @@
     # git checkout "branch name"
     # Pull request -> from "development" to "master"
     # Tag Release
+    # git pull -> Download latest version of the branch from git
