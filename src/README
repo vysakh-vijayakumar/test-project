@@ -23,3 +23,14 @@
     # $http
     # $timeout
     # $interval
+
+# git
+    # git clone (url)
+    # git add (staging changes)
+    # git commit -m "Commit message"
+    # git push
+    # git branch "new branch"
+    # git branch -a => list all branches
+    # git checkout "branch name"
+    # Pull request -> from "development" to "master"
+    # Tag Release
