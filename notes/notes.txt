@@ -19,8 +19,15 @@ htop
 git
 ===
 git clone https://github.com/vysakh-vijayakumar/test-project.git
+git status
+git add notes/notes.txt
+git commit -m "Added AWS git notes"
+git push
 
-git add "test/
+git pull
+git branch
+git branch "development"
+git checkout "development"
 
 AWS
 ===
